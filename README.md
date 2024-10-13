@@ -2,7 +2,7 @@
 
 Shows Purdues basketball record of current year provided that you use a free api key from https://sportsdata.io/. Go Boilers!
 
-<img src="https://imgur.com/UaVlGyL" alt="photo of Pixlet Purdue Basketball app" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="UaVlGyL"><a href="https://imgur.com/UaVlGyL">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
