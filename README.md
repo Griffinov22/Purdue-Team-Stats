@@ -1,3 +1,11 @@
+# Purdue Team Stats
+
+Shows Purdues basketball record of current year provided that you use a free api key from https://sportsdata.io/. Go Boilers!
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/D5okOHe"  ><a href="//imgur.com/a/D5okOHe">Pixlet App: Purdue Basketball Stats</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+
 # Community Apps
 [![Docs](https://img.shields.io/badge/docs-tidbyt.dev-blue?style=flat-square)](https://tidbyt.dev)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/tidbyt/community/main.yml?style=flat-square)](https://github.com/tidbyt/community/actions/workflows/main.yml)
